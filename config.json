@@ -1,0 +1,12 @@
+{
+  "Topic": "yourtopic",
+  "MessageCount": 10,
+  "IntervalSeconds": 0,
+  "Username": "yourusername",
+  "Password": "yourpassword",
+  "MessagePath": "all",
+  "Protocol": "WS",
+  "MQTTbrokerAddress": "yourbrokeraddress",
+  "UseUrls": "http://localhost:5000",
+  "ClientCount": 1
+}
